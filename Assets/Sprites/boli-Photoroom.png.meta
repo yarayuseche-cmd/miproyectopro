@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: 2f43f795bb079dd42b249fbdb1109937
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6405516064050004055
+    second: boli-Photoroom_0
+  - first:
+      213: 3269784786429409849
+    second: boli-Photoroom_1
+  - first:
+      213: 538756267669744234
+    second: boli-Photoroom_2
+  - first:
+      213: 226875936274972842
+    second: boli-Photoroom_3
+  - first:
+      213: -5915119516955172144
+    second: boli-Photoroom_4
+  - first:
+      213: -1917088843197871326
+    second: boli-Photoroom_5
+  - first:
+      213: -5873866916158933079
+    second: boli-Photoroom_6
+  - first:
+      213: -8125219257119065235
+    second: boli-Photoroom_7
+  - first:
+      213: -5946027034561987685
+    second: boli-Photoroom_8
+  - first:
+      213: 1409436599588606654
+    second: boli-Photoroom_9
+  - first:
+      213: 2487789297312292349
+    second: boli-Photoroom_10
+  - first:
+      213: 508870667540536543
+    second: boli-Photoroom_11
+  - first:
+      213: -5468694907711635567
+    second: boli-Photoroom_12
+  - first:
+      213: 895877029524741411
+    second: boli-Photoroom_13
+  - first:
+      213: -229137132624344444
+    second: boli-Photoroom_14
+  - first:
+      213: -7255605620099439057
+    second: boli-Photoroom_15
+  - first:
+      213: 3606727687754970028
+    second: boli-Photoroom_16
+  - first:
+      213: 4057565726085889693
+    second: boli-Photoroom_17
+  - first:
+      213: -6415950097208518602
+    second: boli-Photoroom_18
+  - first:
+      213: -5342115683559279269
+    second: boli-Photoroom_19
+  - first:
+      213: -3248494118099219051
+    second: boli-Photoroom_20
+  - first:
+      213: -2582406908177362131
+    second: boli-Photoroom_21
+  - first:
+      213: 3393348235627724927
+    second: boli-Photoroom_22
+  - first:
+      213: -5004138054704977695
+    second: boli-Photoroom_23
+  - first:
+      213: -3410440446185158687
+    second: boli-Photoroom_24
+  - first:
+      213: 836075465066506957
+    second: boli-Photoroom_25
+  - first:
+      213: -8165119412930115626
+    second: boli-Photoroom_26
+  - first:
+      213: -5911214007156500886
+    second: boli-Photoroom_27
+  - first:
+      213: 6092393964539986395
+    second: boli-Photoroom_28
+  - first:
+      213: 3386401034206982573
+    second: boli-Photoroom_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boli-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 179
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afbd3fd3190b17a0800000000000000
+      internalID: -6405516064050004055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 972
+        width: 178
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af91f60fb906d20800000000000000
+      internalID: 3269784786429409849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 974
+        width: 179
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a68f298fb0a7700800000000000000
+      internalID: 538756267669744234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 974
+        width: 178
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa001c54676062300800000000000000
+      internalID: 226875936274972842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 976
+        width: 179
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d228e3932649eda0800000000000000
+      internalID: -5915119516955172144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 178
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b8352bad12565e0800000000000000
+      internalID: -1917088843197871326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 778
+        width: 179
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a77d6c2925db7ea0800000000000000
+      internalID: -5873866916158933079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 780
+        width: 180
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b3149822c6d3f80800000000000000
+      internalID: -8125219257119065235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 780
+        width: 181
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b301c5ae77b7da0800000000000000
+      internalID: -5946027034561987685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 780
+        width: 178
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2d9ebae135f8310800000000000000
+      internalID: 1409436599588606654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 178
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd515e5f27668220800000000000000
+      internalID: 2487789297312292349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 570
+        width: 181
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc9e5f0d2fdf0700800000000000000
+      internalID: 508870667540536543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 572
+        width: 180
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f3cd0b4fa4b14b0800000000000000
+      internalID: -5468694907711635567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 572
+        width: 179
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d114b696bce6c00800000000000000
+      internalID: 895877029524741411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 574
+        width: 180
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a031dedf0f1dcf0800000000000000
+      internalID: -229137132624344444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 178
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2625af5129ee4b90800000000000000
+      internalID: -7255605620099439057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 370
+        width: 180
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3733609bbad0230800000000000000
+      internalID: 3606727687754970028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 372
+        width: 178
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e362ca78e5f4830800000000000000
+      internalID: 4057565726085889693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 374
+        width: 178
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638d0473167f5f6a0800000000000000
+      internalID: -6415950097208518602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 374
+        width: 180
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f76ce61efcd5b0800000000000000
+      internalID: -5342115683559279269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 180
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d00c39fc70be2d0800000000000000
+      internalID: -3248494118099219051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 186
+        width: 179
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d2946992792cd0800000000000000
+      internalID: -2582406908177362131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 186
+        width: 178
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f700ac7dd38971f20800000000000000
+      internalID: 3393348235627724927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 188
+        width: 177
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8ab4ac3fabd8ab0800000000000000
+      internalID: -5004138054704977695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 188
+        width: 178
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74285cb7eaba0d0800000000000000
+      internalID: -3410440446185158687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 180
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca65bca4365a9b00800000000000000
+      internalID: 836075465066506957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3
+        width: 177
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d787a3972bafae80800000000000000
+      internalID: -8165119412930115626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3
+        width: 178
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669f10fd2627fda0800000000000000
+      internalID: -5911214007156500886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3
+        width: 179
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c32828088c8450800000000000000
+      internalID: 6092393964539986395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boli-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3
+        width: 180
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da13ce67cc9eefe20800000000000000
+      internalID: 3386401034206982573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
