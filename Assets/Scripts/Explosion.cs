@@ -45,4 +45,16 @@ public class Explosion : MonoBehaviour
         // Elimina el objeto de la explosión después de un tiempo determinado
         Destroy(gameObject, segundos);
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        // Intentar obtener el componente de salud del objeto que tocó la explosión
+        PlayerHealth saludJugador = other.GetComponent<PlayerHealth>();
+
+        if (saludJugador != null)
+        {
+            // Si tiene el componente, significa que es un jugador y le restamos vida
+            saludJugador.RecibirDaño();
+        }
+    }
 }
