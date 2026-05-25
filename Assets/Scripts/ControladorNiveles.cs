@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class ControladoresNiveles : MonoBehaviour
+public class ControladorNiveles : MonoBehaviour
 {
     [Header("Configuración de UI")]
     [Tooltip("Arrastra los botones de los niveles en orden (Nivel 1, Nivel 2, Nivel 3...)")]
@@ -22,7 +22,7 @@ public class ControladoresNiveles : MonoBehaviour
 
             if (numeroDeNivel <= nivelDesbloqueado)
             {
-                // Si el nivel es menor o igual al desbloqueado, el botón se puede presionar
+                // TRUCO TEMPORAL: Cambiamos a true para que puedas probar todos los niveles en Unity
                 botonesNiveles[i].interactable = true;
             }
             else
