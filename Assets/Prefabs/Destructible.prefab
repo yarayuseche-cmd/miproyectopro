@@ -131,7 +131,7 @@ MonoBehaviour:
   - {fileID: 2274631966701665123, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
   - {fileID: -5598041726246172800, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
   - {fileID: -5070355926835817348, guid: 8482cc10c037d2846a26e45ca1a26d7b, type: 3}
-  tiempoEntreCuadros: 1.05
+  tiempoEntreCuadros: 0.05
   repetirBucle: 0
   estaEnReposo: 0
 --- !u!114 &-8738203639632321532
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cce246665e218b34ca811b9aeff0dc92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempoDestruccion: 1
+  tiempoDestruccion: 0.3
   probabilidadAparicionItem: 0.2
   objetosParaAparecer:
   - {fileID: 7266525813312433372, guid: 29385601a56e22b4faac44675679793e, type: 3}
