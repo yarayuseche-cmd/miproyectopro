@@ -7,22 +7,6 @@ public class Explosion : MonoBehaviour
     public RenderizadorAnimado centro;
     public RenderizadorAnimado fin;
 
-    [Header("Ajustes de Colisión del Fuego")]
-   
-    public LayerMask capasBloqueo;
-
-    private void Awake()
-    {
-        
-        Collider2D choque = Physics2D.OverlapCircle(transform.position, 0.1f, capasBloqueo);
-
-        if (choque != null)
-        {
-           
-            Destroy(gameObject);
-        }
-    }
-
     public void ActivarRenderizador(RenderizadorAnimado renderizadorElegido)
     {
         // Activa solo el renderizador que coincida con el pasado por parámetro

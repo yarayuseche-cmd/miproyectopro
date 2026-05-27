@@ -47,9 +47,9 @@ public class GameManager : MonoBehaviour
             }
         }
 
-        if (conteoVivos <= 1)
+        if (conteoVivos == 0)
         {
-            // Llama a NuevaRonda después de 3 segundos
+            // El jugador murió, se acabó la partida
             Invoke(nameof(NuevaRonda), 3f);
         }
     }

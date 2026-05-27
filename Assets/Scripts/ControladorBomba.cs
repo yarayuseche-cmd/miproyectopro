@@ -71,18 +71,25 @@ public class ControladorBomba : MonoBehaviour
 
         posicion += direccion;
 
+        // 1. SI CHOCA CON UN MURO INDESTRUCTIBLE: Frena la explosión de inmediato y no instancia nada
+        if (Physics2D.OverlapBox(posicion, Vector2.one / 2f, 0f, LayerMask.GetMask("Indestructibles")))
+        {
+            return;
+        }
+
         if (Physics2D.OverlapBox(posicion, Vector2.one / 2f, 0f, mascaraCapaExplosion))
         {
             LimpiarDestructible(posicion);
             return;
         }
 
+        
         Explosion explosion = Instantiate(prefabExplosion, posicion, Quaternion.identity);
-        // Se asume que 'middle' y 'end' son propiedades del script Explosion
         explosion.ActivarRenderizador(longitud > 1 ? explosion.centro : explosion.fin);
         explosion.EstablecerDireccion(direccion);
         explosion.DestruirTras(duracionExplosion);
 
+        // Continúa la recursividad
         Explotar(posicion, direccion, longitud - 1);
     }
 
