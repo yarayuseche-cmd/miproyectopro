@@ -4713,6 +4713,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5879614340254676635, guid: 6bdbecbdf34cd67488978d9895d00820, type: 3}
+      propertyPath: spritesAnimacion.Array.data[0]
+      value: 
+      objectReference: {fileID: -8104987208732751373, guid: 11b472e4d198d164c9099a74903152b1, type: 3}
+    - target: {fileID: 5879614340254676635, guid: 6bdbecbdf34cd67488978d9895d00820, type: 3}
+      propertyPath: spritesAnimacion.Array.data[1]
+      value: 
+      objectReference: {fileID: 5323666037434727783, guid: c805fa21f57de374691307347e6e3dff, type: 3}
+    - target: {fileID: 5879614340254676635, guid: 6bdbecbdf34cd67488978d9895d00820, type: 3}
+      propertyPath: spritesAnimacion.Array.data[2]
+      value: 
+      objectReference: {fileID: 2821588508781861944, guid: c805fa21f57de374691307347e6e3dff, type: 3}
     - target: {fileID: 5879614341149993120, guid: 6bdbecbdf34cd67488978d9895d00820, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -5697,7 +5709,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 190, y: 65.48}
+  m_SizeDelta: {x: 220.16, y: 66.095}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1807364076
 MonoBehaviour:
