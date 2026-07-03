@@ -5,7 +5,7 @@ using UnityEngine.Tilemaps;
 public class ControladorBomba : MonoBehaviour
 {
     [Header("Configuración de Bomba")]
-    public KeyCode teclaEntrada = KeyCode.LeftShift;
+    public KeyCode teclaEntrada = KeyCode.Space;
     public GameObject prefabBomba;
     public float tiempoMecha = 3f;
     public int cantidadBombas = 1;
@@ -13,9 +13,9 @@ public class ControladorBomba : MonoBehaviour
 
     [Header("Configuración de Explosión")]
     public Explosion prefabExplosion;
-    public LayerMask mascaraCapaExplosion;
+    public LayerMask mascaraCapaExplosion; // Configura esto en Unity con la capa "Obstaculos"
     public float duracionExplosion = 1f;
-    public int radioExplosion = 1;
+    public int radioExplosion = 3;
 
     [Header("Objetos Destructibles")]
     public Tilemap mapaTilesDestructibles;
@@ -49,10 +49,12 @@ public class ControladorBomba : MonoBehaviour
         posicion.x = Mathf.Round(posicion.x);
         posicion.y = Mathf.Round(posicion.y);
 
+        // Crear la explosión central
         Explosion explosion = Instantiate(prefabExplosion, posicion, Quaternion.identity);
-        explosion.ActivarRenderizador(explosion.inicio); // 'start' suele ser propiedad del script Explosion
+        explosion.ActivarRenderizador(explosion.inicio);
         explosion.DestruirTras(duracionExplosion);
 
+        // Propagar explosión en 4 direcciones
         Explotar(posicion, Vector2.up, radioExplosion);
         Explotar(posicion, Vector2.down, radioExplosion);
         Explotar(posicion, Vector2.left, radioExplosion);
@@ -64,41 +66,38 @@ public class ControladorBomba : MonoBehaviour
 
     private void Explotar(Vector2 posicion, Vector2 direccion, int longitud)
     {
-        if (longitud <= 0)
-        {
-            return;
-        }
+        if (longitud <= 0) return;
 
         posicion += direccion;
 
-        // 1. SI CHOCA CON UN MURO INDESTRUCTIBLE: Frena la explosión de inmediato y no instancia nada
-        if (Physics2D.OverlapBox(posicion, Vector2.one / 2f, 0f, LayerMask.GetMask("Indestructibles")))
-        {
-            return;
-        }
-
-        if (Physics2D.OverlapBox(posicion, Vector2.one / 2f, 0f, mascaraCapaExplosion))
+        // 1. Verificar si hay un bloque destructible en el Tilemap
+        Vector3Int celda = mapaTilesDestructibles.WorldToCell(posicion);
+        if (mapaTilesDestructibles.HasTile(celda))
         {
             LimpiarDestructible(posicion);
-            return;
+            return; // El fuego se detiene al golpear un bloque destructible
         }
 
-        
+        // 2. Verificar si hay un muro indestructible (usando Raycast contra la capa)
+        RaycastHit2D hit = Physics2D.Raycast(posicion, Vector2.zero, 0.1f, mascaraCapaExplosion);
+        if (hit.collider != null)
+        {
+            return; // El fuego se detiene al golpear un muro indestructible
+        }
+
+        // 3. Crear el fuego si el camino está libre
         Explosion explosion = Instantiate(prefabExplosion, posicion, Quaternion.identity);
         explosion.ActivarRenderizador(longitud > 1 ? explosion.centro : explosion.fin);
         explosion.EstablecerDireccion(direccion);
         explosion.DestruirTras(duracionExplosion);
 
-        // Continúa la recursividad
         Explotar(posicion, direccion, longitud - 1);
     }
 
     private void LimpiarDestructible(Vector2 posicion)
     {
         Vector3Int celda = mapaTilesDestructibles.WorldToCell(posicion);
-        TileBase tile = mapaTilesDestructibles.GetTile(celda);
-
-        if (tile != null)
+        if (mapaTilesDestructibles.HasTile(celda))
         {
             Instantiate(prefabDestructible, posicion, Quaternion.identity);
             mapaTilesDestructibles.SetTile(celda, null);
@@ -109,13 +108,5 @@ public class ControladorBomba : MonoBehaviour
     {
         cantidadBombas++;
         bombasRestantes++;
-    }
-
-    private void OnTriggerExit2D(Collider2D otro)
-    {
-        if (otro.gameObject.layer == LayerMask.NameToLayer("Bomb"))
-        {
-            otro.isTrigger = false;
-        }
     }
 }

@@ -1,44 +1,81 @@
 using UnityEngine;
+public class Explosion : MonoBehaviour {
 
-public class Explosion : MonoBehaviour
-{
     [Header("Renderizadores de Animación")]
+
     public RenderizadorAnimado inicio;
+
     public RenderizadorAnimado centro;
+
     public RenderizadorAnimado fin;
 
+
+
     public void ActivarRenderizador(RenderizadorAnimado renderizadorElegido)
+
     {
+
         // Activa solo el renderizador que coincida con el pasado por parámetro
+
         inicio.enabled = renderizadorElegido == inicio;
+
         centro.enabled = renderizadorElegido == centro;
+
         fin.enabled = renderizadorElegido == fin;
+
     }
+
+
 
     public void EstablecerDireccion(Vector2 direccion)
+
     {
+
         // Calcula el ángulo basado en la dirección (arriba, abajo, izquierda, derecha)
+
         float angulo = Mathf.Atan2(direccion.y, direccion.x);
 
+
+
         // Aplica la rotación en el eje Z (forward)
+
         transform.rotation = Quaternion.AngleAxis(angulo * Mathf.Rad2Deg, Vector3.forward);
+
     }
+
+
 
     public void DestruirTras(float segundos)
+
     {
+
         // Elimina el objeto de la explosión después de un tiempo determinado
+
         Destroy(gameObject, segundos);
+
     }
 
+
+
     private void OnTriggerEnter2D(Collider2D other)
+
     {
+
         // Intentar obtener el componente de salud del objeto que tocó la explosión
+
         PlayerHealth saludJugador = other.GetComponent<PlayerHealth>();
 
+
+
         if (saludJugador != null)
+
         {
+
             // Si tiene el componente, significa que es un jugador y le restamos vida
+
             saludJugador.RecibirDaño();
+
         }
+
     }
 }
