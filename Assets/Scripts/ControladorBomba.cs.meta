@@ -3,7 +3,11 @@ guid: 5840e75ee3ae56845a89a34660cd2f40
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - prefabBomba: {fileID: 3939017888894637700, guid: e10230ffd5e90c3489946b2652130401, type: 3}
+  - prefabExplosion: {fileID: 805732483383335703, guid: 7d7e9c7ce1308484e863a8b4489e090f, type: 3}
+  - mapaTilesDestructibles: {instanceID: 0}
+  - prefabDestructible: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

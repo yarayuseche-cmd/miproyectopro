@@ -24,7 +24,6 @@ public class RenderizadorAnimado : MonoBehaviour
 
     private void Awake()
     {
-        // Obtenemos la referencia al componente de imagen
         renderizador = GetComponent<SpriteRenderer>();
     }
 
@@ -46,32 +45,54 @@ public class RenderizadorAnimado : MonoBehaviour
 
     private void SiguienteCuadro()
     {
-        cuadroActual++;
-
-        // Si la animación llega al final y debe repetirse, vuelve al inicio
-        if (repetirBucle && cuadroActual >= spritesAnimacion.Length)
+        // Solo avanzamos si no estamos en reposo
+        if (!estaEnReposo)
         {
-            cuadroActual = 0;
+            cuadroActual++;
+
+            // Lógica de bucle
+            if (repetirBucle && cuadroActual >= spritesAnimacion.Length)
+            {
+                cuadroActual = 0;
+            }
+
+            // Asignación de sprite si estamos dentro de los límites
+            if (cuadroActual >= 0 && cuadroActual < spritesAnimacion.Length)
+            {
+                renderizador.sprite = spritesAnimacion[cuadroActual];
+            }
         }
-
-        // Decidimos qué mostrar según el estado actual
-        if (estaEnReposo)
+        else
         {
+            // Si estamos en reposo, mostramos el sprite de reposo
             renderizador.sprite = spriteReposo;
-        }
-        else if (cuadroActual >= 0 && cuadroActual < spritesAnimacion.Length)
-        {
-            renderizador.sprite = spritesAnimacion[cuadroActual];
         }
     }
 
-    // Función extra para cambiar de estado fácilmente desde otros scripts
     public void CambiarEstadoReposo(bool reposo)
     {
         estaEnReposo = reposo;
         if (!reposo)
         {
-            cuadroActual = 0; // Reinicia la animación al activarse
+            cuadroActual = 0; // Reinicia al salir de reposo
         }
+    }
+
+    public void ReproducirAnimacionMuerte()
+    {
+        estaEnReposo = false;   // Forzamos salida de reposo
+        repetirBucle = false;    // Desactivamos el bucle para que se vea solo una vez
+        cuadroActual = 0;        // Reiniciamos al primer frame
+
+        // Forzamos visualización inmediata del primer frame de muerte
+        if (spritesAnimacion != null && spritesAnimacion.Length > 0)
+        {
+            renderizador.sprite = spritesAnimacion[0];
+        }
+    }
+
+    public float ObtenerTiempoAnimacionMuerte()
+    {
+        return spritesAnimacion.Length * tiempoEntreCuadros;
     }
 }

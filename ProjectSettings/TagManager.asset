@@ -3,22 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Destructible
-  - Wall
-  - Explosion
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
-  - Stage
-  - Bomb
-  - Explosion
-  - Item
-  - Obstaculos
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -43,10 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Interfaz
-    uniqueID: 2496504729
-    locked: 0
-  - name: TableroJuego
-    uniqueID: 4173151663
     locked: 0

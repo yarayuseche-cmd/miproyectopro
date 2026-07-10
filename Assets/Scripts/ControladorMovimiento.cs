@@ -55,50 +55,61 @@ public class ControladorMovimiento : MonoBehaviour
     {
         Vector2 posicion = rb.position;
         Vector2 traslacion = velocidad * Time.fixedDeltaTime * direccion;
-
         rb.MovePosition(posicion + traslacion);
     }
 
     private void EstablecerDireccion(Vector2 nuevaDireccion, RenderizadorAnimado renderizadorSprite)
     {
         direccion = nuevaDireccion;
-
         renderizadorArriba.enabled = renderizadorSprite == renderizadorArriba;
         renderizadorAbajo.enabled = renderizadorSprite == renderizadorAbajo;
         renderizadorIzquierda.enabled = renderizadorSprite == renderizadorIzquierda;
         renderizadorDerecha.enabled = renderizadorSprite == renderizadorDerecha;
 
         renderizadorActivo = renderizadorSprite;
-        renderizadorActivo.estaEnReposo = direccion == Vector2.zero; // 'idle' pertenece a RenderizadorAnimado
+        renderizadorActivo.estaEnReposo = direccion == Vector2.zero;
     }
 
     private void OnTriggerEnter2D(Collider2D otro)
     {
+        Debug.Log("Trigger detectado con: " + otro.gameObject.name);
         if (otro.gameObject.layer == LayerMask.NameToLayer("Explosion"))
         {
             SecuenciaMuerte();
         }
     }
 
-    private void SecuenciaMuerte()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
+        Debug.Log("Colisión detectada con: " + collision.gameObject.name);
+        if (collision.gameObject.CompareTag("Enemigo"))
+        {
+            SecuenciaMuerte();
+        }
+    }
+
+    // Función pública para que otros scripts (como el enemigo) puedan llamarla
+    public void SecuenciaMuerte()
+    {
+        if (!enabled) return; // Evita que se ejecute dos veces
+
         enabled = false;
-        // Desactiva el script de las bombas usando el nuevo nombre en español
         GetComponent<ControladorBomba>().enabled = false;
 
         renderizadorArriba.enabled = false;
         renderizadorAbajo.enabled = false;
         renderizadorIzquierda.enabled = false;
         renderizadorDerecha.enabled = false;
-        renderizadorMuerte.enabled = true;
 
-        Invoke(nameof(AlTerminarSecuenciaMuerte), 1.25f);
+        renderizadorMuerte.enabled = true;
+        renderizadorMuerte.ReproducirAnimacionMuerte();
+
+        Invoke(nameof(AlTerminarSecuenciaMuerte), renderizadorMuerte.ObtenerTiempoAnimacionMuerte());
     }
 
     private void AlTerminarSecuenciaMuerte()
     {
         gameObject.SetActive(false);
-        // ¡Listo! Aquí está la conexión con el Gestor de Juego en español
         GameManager.Instancia.ComprobarEstadoVictoria();
     }
 }
