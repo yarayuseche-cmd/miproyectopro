@@ -1,6 +1,5 @@
 using UnityEngine;
 using SQLite;
-using System;
 using System.Linq;
 
 public class UserData
@@ -9,14 +8,10 @@ public class UserData
     public int ID { get; set; }
     [Unique]
     public string Username { get; set; }
-    // Añadimos Email de nuevo para que no marque error
     public string Email { get; set; }
     public string Password { get; set; }
-
-    // Datos de progreso
-    public int Puntaje { get; set; }
-    public int NivelesPasados { get; set; }
-    public string PersonajesDesbloqueados { get; set; }
+    public string PreguntaSecreta { get; set; }
+    public string RespuestaSecreta { get; set; }
 }
 
 public class DatabaseManager : MonoBehaviour
@@ -30,25 +25,15 @@ public class DatabaseManager : MonoBehaviour
         db.CreateTable<UserData>();
     }
 
-    // Ahora este método acepta los 3 parámetros correctamente
-    public bool RegistrarUsuario(string user, string email, string pass)
+    // Funciones necesarias para tus scripts
+    public bool RegistrarUsuario(string user, string email, string pass, string pregunta, string respuesta)
     {
         try
         {
-            db.Insert(new UserData
-            {
-                Username = user,
-                Email = email, // Ahora el campo existe en UserData
-                Password = pass,
-                Puntaje = 0
-            });
+            db.Insert(new UserData { Username = user, Email = email, Password = pass, PreguntaSecreta = pregunta, RespuestaSecreta = respuesta });
             return true;
         }
-        catch (Exception e)
-        {
-            Debug.LogError("Error al registrar: " + e.Message);
-            return false;
-        }
+        catch { return false; }
     }
 
     public UserData ValidarLogin(string user, string pass)
@@ -56,10 +41,13 @@ public class DatabaseManager : MonoBehaviour
         return db.Table<UserData>().FirstOrDefault(u => u.Username == user && u.Password == pass);
     }
 
+    public UserData BuscarUsuarioPorNombre(string user)
+    {
+        return db.Table<UserData>().FirstOrDefault(u => u.Username == user);
+    }
+
     public void GuardarProgreso(UserData usuario)
     {
         db.Update(usuario);
     }
-
-    void OnApplicationQuit() { if (db != null) db.Close(); }
 }
