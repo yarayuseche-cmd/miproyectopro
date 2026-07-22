@@ -5,7 +5,7 @@ public class PlayerHealth : MonoBehaviour
 {
     [Header("Configuración del Jugador")]
     [Range(1, 4)][SerializeField] private int numeroJugador = 1;
-    private int vidasActuales = 3;
+    [SerializeField] private int vidasActuales = 3;
 
     [Header("Posición de Reaparición")]
     [SerializeField] private Transform puntoRespawn;
@@ -13,39 +13,68 @@ public class PlayerHealth : MonoBehaviour
     [Header("Ajustes de Daño")]
     [SerializeField] private float tiempoInvulnerabilidad = 1.5f;
 
-    private HUDVidasManager hudManager;
+    [Header("Referencias Visuales (Sprites Hijos)")]
+    [SerializeField] private GameObject spriteDeath;        // Arrastra aquí el objeto "Death"
+    [SerializeField] private GameObject[] spritesNormales;  // Arrastra Up, Down, Left, Right
+
+    private BarraVidasUI barraVidasUI;
     private bool esInvulnerable = false;
-    private SpriteRenderer spriteRenderer;
     private Collider2D miCollider;
 
     void Start()
     {
         vidasActuales = 3;
-        spriteRenderer = GetComponent<SpriteRenderer>();
         miCollider = GetComponent<Collider2D>();
-        hudManager = FindObjectOfType<HUDVidasManager>();
 
-        if (hudManager != null)
+        // Buscar la barra de vida en la escena
+        barraVidasUI = FindObjectOfType<BarraVidasUI>();
+
+        if (barraVidasUI != null)
         {
-            hudManager.ActualizarVidasUI(numeroJugador, vidasActuales);
+            barraVidasUI.ActualizarBarra(vidasActuales);
+        }
+
+        // Estado inicial seguro
+        ActivarSpritesNormales(true);
+        if (spriteDeath != null) spriteDeath.SetActive(false);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.name.Contains("Enemigo") || collision.gameObject.CompareTag("Enemigo"))
+        {
+            RecibirDaño();
         }
     }
 
-    // Este método público será llamado por la explosión al tocar al jugador
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.name.Contains("Enemigo") || collision.CompareTag("Enemigo") || collision.CompareTag("Explosion"))
+        {
+            RecibirDaño();
+        }
+    }
+
     public void RecibirDaño()
     {
         if (esInvulnerable) return;
 
-        vidasActuales--;
+        // Activamos la invulnerabilidad y desactivamos el collider al instante para evitar doble toque
+        esInvulnerable = true;
+        if (miCollider != null) miCollider.enabled = false;
 
-        if (hudManager != null)
+        vidasActuales--;
+        Debug.Log("¡Golpe recibido! Vidas restantes: " + vidasActuales);
+
+        // Actualizar la barra visual de vidas
+        if (barraVidasUI != null)
         {
-            hudManager.ActualizarVidasUI(numeroJugador, vidasActuales);
+            barraVidasUI.ActualizarBarra(vidasActuales);
         }
 
         if (vidasActuales > 0)
         {
-            StartCoroutine(RespawnCo());
+            StartCoroutine(SecuenciaRespawn());
         }
         else
         {
@@ -53,38 +82,69 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    private IEnumerator RespawnCo()
+    IEnumerator SecuenciaRespawn()
     {
-        esInvulnerable = true;
-        miCollider.enabled = false;
-        spriteRenderer.enabled = false;
+        // 1. Mostrar sprite de muerte y ocultar los normales
+        if (spriteDeath != null) spriteDeath.SetActive(true);
+        ActivarSpritesNormales(false);
 
-        yield return new WaitForSeconds(0.5f); // Pausa antes de reaparecer
+        // Esperar un momento viendo la animación de muerte
+        yield return new WaitForSeconds(0.6f);
 
+        // 2. MOVER AL JUGADOR AL PUNTO DE RESPAWN (-6, 4, 0)
         if (puntoRespawn != null)
         {
             transform.position = puntoRespawn.position;
         }
-
-        spriteRenderer.enabled = true;
-        miCollider.enabled = true;
-
-        // Efecto visual de parpadeo
-        float tiempoPasado = 0;
-        while (tiempoPasado < tiempoInvulnerabilidad)
+        else
         {
-            spriteRenderer.enabled = !spriteRenderer.enabled;
-            yield return new WaitForSeconds(0.1f);
-            tiempoPasado += 0.1f;
+            Debug.LogWarning("¡Atención! Falta asignar el 'Punto Respawn' en el Inspector del Player.");
         }
 
-        spriteRenderer.enabled = true;
+        // 3. Ocultar muerte y volver a encender los sprites normales
+        if (spriteDeath != null) spriteDeath.SetActive(false);
+        ActivarSpritesNormales(true);
+
+        if (miCollider != null) miCollider.enabled = true;
+
+        // 4. Parpadeo de invulnerabilidad
+        float tiempoTranscurrido = 0f;
+        while (tiempoTranscurrido < tiempoInvulnerabilidad)
+        {
+            AlternarVisibilidadSprites();
+            yield return new WaitForSeconds(0.12f);
+            tiempoTranscurrido += 0.12f;
+        }
+
+        // 5. Garantizar que queden visibles al terminar
+        ActivarSpritesNormales(true);
         esInvulnerable = false;
     }
 
     private void MuerteDefinitiva()
     {
-        Debug.Log($"Jugador {numeroJugador} eliminado de la partida.");
+        if (spriteDeath != null) spriteDeath.SetActive(true);
+        ActivarSpritesNormales(false);
+
+        if (miCollider != null) miCollider.enabled = false;
+
+        Debug.Log($"Jugador {numeroJugador} eliminado definitivamente.");
         gameObject.SetActive(false);
+    }
+
+    private void ActivarSpritesNormales(bool estado)
+    {
+        foreach (GameObject sprite in spritesNormales)
+        {
+            if (sprite != null) sprite.SetActive(estado);
+        }
+    }
+
+    private void AlternarVisibilidadSprites()
+    {
+        foreach (GameObject sprite in spritesNormales)
+        {
+            if (sprite != null) sprite.SetActive(!sprite.activeSelf);
+        }
     }
 }

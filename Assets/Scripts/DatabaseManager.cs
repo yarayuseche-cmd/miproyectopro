@@ -25,7 +25,6 @@ public class DatabaseManager : MonoBehaviour
         db.CreateTable<UserData>();
     }
 
-    // Funciones necesarias para tus scripts
     public bool RegistrarUsuario(string user, string email, string pass, string pregunta, string respuesta)
     {
         try
@@ -49,5 +48,12 @@ public class DatabaseManager : MonoBehaviour
     public void GuardarProgreso(UserData usuario)
     {
         db.Update(usuario);
+    }
+
+    public void RegistrarUsuario(string user, string email, string pass)
+    {
+        UserData nuevoUsuario = new UserData { Username = user, Email = email, Password = pass };
+        db.Insert(nuevoUsuario);
+        Debug.Log("Usuario guardado en la base de datos.");
     }
 }

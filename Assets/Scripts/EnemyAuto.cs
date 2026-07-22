@@ -11,11 +11,6 @@ public class EnemyAuto : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private Rigidbody2D rb;
 
-    // Control de daño y vidas del Jugador
-    private static int vidasJugador = 3;
-    private float tiempoUltimoGolpe = 0f;
-    private float invencibilidadCooldown = 1.5f;
-
     [Header("Inteligencia de Caminos")]
     public float intervaloDecision = 0.5f;
     private float timerDecision = 0f;
@@ -64,6 +59,12 @@ public class EnemyAuto : MonoBehaviour
         {
             CambiarDireccionInteligente();
         }
+
+        // Si toca al jugador por colisión física, le avisamos a su script PlayerHealth
+        if (collision.gameObject.CompareTag("Player") || collision.gameObject.name.Contains("Player"))
+        {
+            AtacarJugador(collision.gameObject);
+        }
     }
 
     private void OnCollisionStay2D(Collision2D collision)
@@ -76,9 +77,34 @@ public class EnemyAuto : MonoBehaviour
             }
         }
 
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player") || collision.gameObject.name.Contains("Player"))
         {
-            ProcesarDanoJugador();
+            AtacarJugador(collision.gameObject);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        // Si la explosión toca al enemigo, este muere
+        if (collision.CompareTag("Explosion"))
+        {
+            Destroy(gameObject);
+        }
+
+        // Si el jugador lo toca mediante un Trigger
+        if (collision.CompareTag("Player") || collision.gameObject.name.Contains("Player"))
+        {
+            AtacarJugador(collision.gameObject);
+        }
+    }
+
+    // Método centralizado para dañar al jugador usando su propio PlayerHealth
+    void AtacarJugador(GameObject jugadorObj)
+    {
+        PlayerHealth playerHealth = jugadorObj.GetComponent<PlayerHealth>();
+        if (playerHealth != null)
+        {
+            playerHealth.RecibirDaño();
         }
     }
 
@@ -88,7 +114,7 @@ public class EnemyAuto : MonoBehaviour
 
         if (direccionesLibres.Count > 2)
         {
-            if (Random.Range(0, 100) < 40) // 40% de probabilidad de doblar si ve un camino abierto
+            if (Random.Range(0, 100) < 40)
             {
                 int rand = Random.Range(0, direccionesLibres.Count);
                 Vector2 nuevaDir = direccionesLibres[rand];
@@ -141,10 +167,8 @@ public class EnemyAuto : MonoBehaviour
 
         foreach (Vector2 dir in direcciones)
         {
-            // Lanzamos el rayo usando la máscara de capa elegida desde el Inspector
             RaycastHit2D hit = Physics2D.Raycast(transform.position, dir, distanciaDeteccion, capasObstaculos);
 
-            // Si el rayo NO golpea nada que pertenezca a la máscara de obstáculos, significa que el camino está despejado
             if (hit.collider == null)
             {
                 libres.Add(dir);
@@ -179,36 +203,6 @@ public class EnemyAuto : MonoBehaviour
                 spriteRenderer.flipX = false;
                 anim.SetInteger("Direction", rand);
             }
-        }
-    }
-
-    void ProcesarDanoJugador()
-    {
-        if (Time.time - tiempoUltimoGolpe > invencibilidadCooldown)
-        {
-            vidasJugador--;
-            tiempoUltimoGolpe = Time.time;
-            Debug.Log("¡El enemigo te tocó! Vidas restantes: " + vidasJugador);
-
-            if (vidasJugador <= 0)
-            {
-                vidasJugador = 3;
-                ReiniciarNivel();
-            }
-        }
-    }
-
-    void ReiniciarNivel()
-    {
-        Scene currentScene = SceneManager.GetActiveScene();
-        SceneManager.LoadScene(currentScene.name);
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Explosion"))
-        {
-            Destroy(gameObject);
         }
     }
 }

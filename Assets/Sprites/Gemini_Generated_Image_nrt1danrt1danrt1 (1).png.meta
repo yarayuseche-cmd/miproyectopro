@@ -1,7 +1,16 @@
 fileFormatVersion: 2
-guid: 06efa9d945e3f8a4aa73176cd380954e
+guid: 5fa4cfab391c3bd4dbdbc02f337b3aa6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3002917714691278594
+    second: Gemini_Generated_Image_nrt1danrt1danrt1 (1)_0
+  - first:
+      213: 250234916893260385
+    second: Gemini_Generated_Image_nrt1danrt1danrt1 (1)_1
+  - first:
+      213: 4009277383902879004
+    second: Gemini_Generated_Image_nrt1danrt1danrt1 (1)_2
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -41,7 +50,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -90,7 +99,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Gemini_Generated_Image_nrt1danrt1danrt1 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618.6666
+        width: 1141
+        height: 309.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef83916af3e7356d0800000000000000
+      internalID: -3002917714691278594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemini_Generated_Image_nrt1danrt1danrt1 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309.66666
+        width: 1141
+        height: 309.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a72d3c453097300800000000000000
+      internalID: 250234916893260385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemini_Generated_Image_nrt1danrt1danrt1 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 1141
+        height: 309.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dd981e980d3a730800000000000000
+      internalID: 4009277383902879004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

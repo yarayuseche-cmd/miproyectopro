@@ -3,22 +3,40 @@ using TMPro;
 
 public class RegisterUI : MonoBehaviour
 {
-    public TMP_InputField inputUsername, inputEmail, inputPassword, inputPregunta, inputRespuesta;
+    [Header("Referencias de UI")]
+    public TMP_InputField inputUser;
+    public TMP_InputField inputEmail;
+    public TMP_InputField inputPass;
+
+    [Header("Referencias de Sistema")]
     public DatabaseManager dbManager;
 
     public void OnClickRegistrar()
     {
-        if (dbManager == null) return;
+        // 1. Verificación de seguridad (Evita NullReferenceException)
+        if (dbManager == null)
+        {
+            Debug.LogError("¡Error! El DatabaseManager no está asignado en el Inspector de RegisterUI.");
+            return;
+        }
 
-        bool exito = dbManager.RegistrarUsuario(
-            inputUsername.text,
-            inputEmail.text,
-            inputPassword.text,
-            inputPregunta.text,
-            inputRespuesta.text
-        );
+        if (inputUser == null || inputEmail == null || inputPass == null)
+        {
+            Debug.LogError("¡Error! Uno de los campos de texto (InputField) no está asignado.");
+            return;
+        }
 
-        if (exito) Debug.Log("Registro exitoso.");
-        else Debug.LogError("Error en registro.");
+        // 2. Validación básica de campos vacíos
+        if (string.IsNullOrEmpty(inputUser.text) || string.IsNullOrEmpty(inputPass.text))
+        {
+            Debug.LogWarning("Por favor, rellena todos los campos.");
+            return;
+        }
+
+        // 3. Llamada a la base de datos
+        // Asegúrate de que este método exista en tu DatabaseManager.cs
+        dbManager.RegistrarUsuario(inputUser.text, inputEmail.text, inputPass.text);
+
+        Debug.Log("Registro intentado para: " + inputUser.text);
     }
 }

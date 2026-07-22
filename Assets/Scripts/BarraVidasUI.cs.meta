@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78de48347be490a439e1ebe0e784e06a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imagenBarra: {instanceID: 0}
+  - sprite3Vidas: {fileID: -3002917714691278594, guid: 5fa4cfab391c3bd4dbdbc02f337b3aa6, type: 3}
+  - sprite2Vidas: {fileID: 250234916893260385, guid: 5fa4cfab391c3bd4dbdbc02f337b3aa6, type: 3}
+  - sprite1Vida: {fileID: 4009277383902879004, guid: 5fa4cfab391c3bd4dbdbc02f337b3aa6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

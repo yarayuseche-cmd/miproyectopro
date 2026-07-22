@@ -1,62 +1,52 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 [DefaultExecutionOrder(-1)]
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instancia { get; private set; }
 
-    private GameObject[] jugadores;
+    [Header("Configuración de Respawn")]
+    public Transform puntoDeReinicio;
+    public GameObject jugador;
+    public float tiempoInvencibilidad = 2f;
 
     private void Awake()
     {
-        if (Instancia != null)
-        {
-            DestroyImmediate(gameObject);
-        }
-        else
-        {
-            Instancia = this;
-        }
+        if (Instancia != null) { DestroyImmediate(gameObject); }
+        else { Instancia = this; }
     }
 
-    private void OnDestroy()
-    {
-        if (Instancia == this)
-        {
-            Instancia = null;
-        }
-    }
-
-    private void Start()
-    {
-        // Busca a los jugadores por su etiqueta (Tag). 
-        // Asegúrate de que en Unity tus jugadores tengan el tag "Player".
-        jugadores = GameObject.FindGameObjectsWithTag("Player");
-    }
-
+    // Mantenemos esta función para que ControlarMovimiento deje de dar error
     public void ComprobarEstadoVictoria()
     {
-        int conteoVivos = 0;
-
-        for (int i = 0; i < jugadores.Length; i++)
-        {
-            if (jugadores[i].activeSelf)
-            {
-                conteoVivos++;
-            }
-        }
-
-        if (conteoVivos == 0)
-        {
-            // El jugador murió, se acabó la partida
-            Invoke(nameof(NuevaRonda), 3f);
-        }
+        // Si necesitas lógica de victoria aquí, puedes agregarla
     }
 
-    private void NuevaRonda()
+    public void RespawnPlayer()
     {
-        // Recarga la escena actual
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        StartCoroutine(ProcesoRespawn());
+    }
+
+    private IEnumerator ProcesoRespawn()
+    {
+        jugador.SetActive(false);
+        yield return new WaitForSeconds(1f);
+        jugador.transform.position = puntoDeReinicio.position;
+        jugador.SetActive(true);
+        StartCoroutine(EfectoParpadeo());
+    }
+
+    private IEnumerator EfectoParpadeo()
+    {
+        SpriteRenderer sr = jugador.GetComponent<SpriteRenderer>();
+        float tiempoFin = Time.time + tiempoInvencibilidad;
+        while (Time.time < tiempoFin)
+        {
+            sr.enabled = !sr.enabled;
+            yield return new WaitForSeconds(0.15f);
+        }
+        sr.enabled = true;
     }
 }
