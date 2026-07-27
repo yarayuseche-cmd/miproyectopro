@@ -130,6 +130,8 @@ public class PlayerHealth : MonoBehaviour
 
         Debug.Log($"Jugador {numeroJugador} eliminado definitivamente.");
         gameObject.SetActive(false);
+
+        UnityEngine.SceneManagement.SceneManager.LoadScene("GameOver");
     }
 
     private void ActivarSpritesNormales(bool estado)

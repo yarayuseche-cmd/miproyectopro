@@ -85,9 +85,14 @@ public class EnemyAuto : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Si la explosión toca al enemigo, este muere
+        // Si la explosión toca al enemigo, este muere y suma puntos
         if (collision.CompareTag("Explosion"))
         {
+            if (PuntajeManager.Instance != null)
+            {
+                PuntajeManager.Instance.SumarPuntos(100);
+            }
+
             Destroy(gameObject);
         }
 
