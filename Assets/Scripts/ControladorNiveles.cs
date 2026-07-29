@@ -5,49 +5,53 @@ using UnityEngine.SceneManagement;
 public class ControladorNiveles : MonoBehaviour
 {
     [Header("Configuración de UI")]
-    [Tooltip("Arrastra los botones de los niveles en orden (Nivel 1, Nivel 2, Nivel 3...)")]
+    [Tooltip("Arrastra los botones de los niveles en orden (Nivel 1, Nivel 2...)")]
     public Button[] botonesNiveles;
+
+    void OnEnable()
+    {
+        ActualizarBotonesNiveles();
+    }
 
     void Start()
     {
-        // PlayerPrefs guarda el nivel máximo alcanzado por el jugador.
-        // Si es la primera vez que juega, por defecto será el nivel 1.
+        ActualizarBotonesNiveles();
+    }
+
+    public void ActualizarBotonesNiveles()
+    {
+        // Si nunca se ha guardado nada, por defecto devuelve 1 (solo nivel 1 desbloqueado)
         int nivelDesbloqueado = PlayerPrefs.GetInt("NivelDesbloqueado", 1);
 
-        // Recorremos todos los botones de la lista
+        // Recorremos los botones para activarlos o bloquearlos automáticamente
         for (int i = 0; i < botonesNiveles.Length; i++)
         {
-            // El índice de la lista empieza en 0, así que el Nivel 1 es i + 1.
             int numeroDeNivel = i + 1;
 
             if (numeroDeNivel <= nivelDesbloqueado)
             {
-                // TRUCO TEMPORAL: Cambiamos a true para que puedas probar todos los niveles en Unity
-                botonesNiveles[i].interactable = true;
+                botonesNiveles[i].interactable = true; // Desbloqueado
             }
             else
             {
-                // Si no, el botón se bloquea automáticamente
-                botonesNiveles[i].interactable = false;
+                botonesNiveles[i].interactable = false; // Bloqueado
             }
         }
     }
 
-    // Esta función la llamará cada botón al hacerle click (se asigna en el OnClick del botón)
-    public void SeleccionarNivel(int numeroDeNivel)
+    // Método para cargar la escena
+    public void CargarEscenaNivel(string nombreEscena)
     {
-        // Guardamos cuál es el nivel que se va a jugar actualmente
-        PlayerPrefs.SetInt("NivelActual", numeroDeNivel);
-
-        // CARGA DE ESCENA ACTUALIZADA: 
-        // Cambiado a "Bomberman" para que coincida exactamente con tu escena de juego principal.
-        SceneManager.LoadScene("Bomberman");
+        SceneManager.LoadScene(nombreEscena);
     }
 
-    // Método para vaciar los datos guardados y volver a empezar desde el Nivel 1
+    // [ContextMenu] crea un botón directo en los tres puntos (...) del componente en el Inspector
+    [ContextMenu("Borrar Progreso (Bloquear Nivel 2)")]
     public void BorrarProgreso()
     {
-        PlayerPrefs.DeleteAll();
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Recarga el menú actual
+        PlayerPrefs.DeleteKey("NivelDesbloqueado");
+        PlayerPrefs.Save();
+        ActualizarBotonesNiveles();
+        Debug.Log("¡Progreso borrado! El nivel 2 vuelve a estar bloqueado.");
     }
 }

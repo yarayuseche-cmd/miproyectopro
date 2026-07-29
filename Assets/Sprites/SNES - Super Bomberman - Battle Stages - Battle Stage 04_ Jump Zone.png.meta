@@ -1,7 +1,670 @@
 fileFormatVersion: 2
 guid: df00b7a38851b024087656d78b3bb4b8
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1568920142704712230
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_0
+  - first:
+      213: 4073929426040167814
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_1
+  - first:
+      213: 2794384123748378141
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_2
+  - first:
+      213: 3570846900040674199
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_3
+  - first:
+      213: -8247211075051924259
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_4
+  - first:
+      213: -6569820544641090760
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_5
+  - first:
+      213: -9190012141496035562
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_6
+  - first:
+      213: -2482630895077639609
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_7
+  - first:
+      213: 1685887704228853302
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_8
+  - first:
+      213: -721757944239653608
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_9
+  - first:
+      213: -4105885657011864343
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_10
+  - first:
+      213: -7840421939001864111
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_11
+  - first:
+      213: -8697180272017898995
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_12
+  - first:
+      213: 1039272825028508220
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_13
+  - first:
+      213: 6784428267968836166
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_14
+  - first:
+      213: 175416606351107668
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_15
+  - first:
+      213: 9185301462674644053
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_16
+  - first:
+      213: -1299626226204132250
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_17
+  - first:
+      213: 5917396129003916872
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_18
+  - first:
+      213: -2796215237582516588
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_19
+  - first:
+      213: 4848213258636662865
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_20
+  - first:
+      213: -6430377991678422462
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_21
+  - first:
+      213: -8356294659502897456
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_22
+  - first:
+      213: -4504947830113991227
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_23
+  - first:
+      213: 9768848011294443
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_24
+  - first:
+      213: -8564632001163134071
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_25
+  - first:
+      213: 2265709886127032826
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_26
+  - first:
+      213: -4721524969627887870
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_27
+  - first:
+      213: -5175156051438014451
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_28
+  - first:
+      213: 5152466459054933640
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_29
+  - first:
+      213: -3504230846028378988
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_30
+  - first:
+      213: 4270749291302563728
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_31
+  - first:
+      213: 1260670938779689173
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_32
+  - first:
+      213: 7155386745496449989
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_33
+  - first:
+      213: 2564152693304744486
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_34
+  - first:
+      213: -3569209498315577419
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_35
+  - first:
+      213: 7025706040106397202
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_36
+  - first:
+      213: 5204223587222932119
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_37
+  - first:
+      213: 6202693066055307491
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_38
+  - first:
+      213: -1038123864394070666
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_39
+  - first:
+      213: 5457859381908179822
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_40
+  - first:
+      213: -2171190287912447950
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_41
+  - first:
+      213: 9033437887299392034
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_42
+  - first:
+      213: 5087866234638281249
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_43
+  - first:
+      213: -7591821906359616600
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_44
+  - first:
+      213: -6509612398962195598
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_45
+  - first:
+      213: 7164858895560069594
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_46
+  - first:
+      213: 7060413063608381414
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_47
+  - first:
+      213: 2075675080325000107
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_48
+  - first:
+      213: -4668411567254302185
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_49
+  - first:
+      213: -8482420383460820046
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_50
+  - first:
+      213: 7561054564321261484
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_51
+  - first:
+      213: -8015755359533133381
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_52
+  - first:
+      213: -7514564366416864834
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_53
+  - first:
+      213: -6053008179451133727
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_54
+  - first:
+      213: 43132979992708101
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_55
+  - first:
+      213: -4682236831119828548
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_56
+  - first:
+      213: 1724678988346346171
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_57
+  - first:
+      213: 637161424315627985
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_58
+  - first:
+      213: 273152279958027802
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_59
+  - first:
+      213: -8162885052375429089
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_60
+  - first:
+      213: 3263440946325159900
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_61
+  - first:
+      213: -7960194521500255206
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_62
+  - first:
+      213: 137581925862458628
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_63
+  - first:
+      213: -1729898386631857996
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_64
+  - first:
+      213: 637559635840367207
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_65
+  - first:
+      213: -9042581595762373205
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_66
+  - first:
+      213: 3283228654711627211
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_67
+  - first:
+      213: -617736593058992050
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_68
+  - first:
+      213: -7540567837240996625
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_69
+  - first:
+      213: 3907120933774595024
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_70
+  - first:
+      213: -2026591445429576105
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_71
+  - first:
+      213: 1830294849059795478
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_72
+  - first:
+      213: 593507743315710223
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_73
+  - first:
+      213: 4387672753900043157
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_74
+  - first:
+      213: -7431049943995040944
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_75
+  - first:
+      213: 1105897685526635234
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_76
+  - first:
+      213: -2125000574698420228
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_77
+  - first:
+      213: -103317378958585597
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_78
+  - first:
+      213: 5743871538494060455
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_79
+  - first:
+      213: -4214852299686553630
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_80
+  - first:
+      213: 3787653908018927454
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_81
+  - first:
+      213: -8015874840272446772
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_82
+  - first:
+      213: -3465964016751657866
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_83
+  - first:
+      213: -3397116635318655439
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_84
+  - first:
+      213: 7855483076439559153
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_85
+  - first:
+      213: -9079382052064991831
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_86
+  - first:
+      213: -5988789668125456730
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_87
+  - first:
+      213: -9033646243619815100
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_88
+  - first:
+      213: 4279502632746655429
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_89
+  - first:
+      213: 8486710893249470713
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_90
+  - first:
+      213: -2573324675230965868
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_91
+  - first:
+      213: -2312828699901743556
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_92
+  - first:
+      213: -1711168002399597402
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_93
+  - first:
+      213: -2701332013406865277
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_94
+  - first:
+      213: 3029310386161602279
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_95
+  - first:
+      213: -3553217546085343613
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_96
+  - first:
+      213: 3337435429464169738
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_97
+  - first:
+      213: -2656841862652087754
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_98
+  - first:
+      213: 6184806782890604975
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_99
+  - first:
+      213: 8387786337873625366
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_100
+  - first:
+      213: 318293487195849123
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_101
+  - first:
+      213: -3753080239431015301
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_102
+  - first:
+      213: -764842467985535126
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_103
+  - first:
+      213: -8211340191896331786
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_104
+  - first:
+      213: -6094665986518245056
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_105
+  - first:
+      213: 8612516481340692027
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_106
+  - first:
+      213: 6152484473810925120
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_107
+  - first:
+      213: -4905802498649960824
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_108
+  - first:
+      213: 155648696001611714
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_109
+  - first:
+      213: -8148526155619086464
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_110
+  - first:
+      213: 259986614117472036
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_111
+  - first:
+      213: 6648762601115447826
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_112
+  - first:
+      213: -2696970154791231725
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_113
+  - first:
+      213: 8267332263879863137
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_114
+  - first:
+      213: 4524774470376003697
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_115
+  - first:
+      213: 6576417239789114439
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_116
+  - first:
+      213: 9041908130671966370
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_117
+  - first:
+      213: -1726398399373744154
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_118
+  - first:
+      213: -6623586554883167774
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_119
+  - first:
+      213: -3028696396717548150
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_120
+  - first:
+      213: -6302761912926399882
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_121
+  - first:
+      213: -5620500526118831020
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_122
+  - first:
+      213: -809746724939900064
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_123
+  - first:
+      213: 5372640370481501621
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_124
+  - first:
+      213: 6956617126379453023
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_125
+  - first:
+      213: 2401884726529709693
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_126
+  - first:
+      213: 5159666809816562375
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_127
+  - first:
+      213: -1271188057759782005
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_128
+  - first:
+      213: -1729530083669263250
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_129
+  - first:
+      213: -1221428585564351869
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_130
+  - first:
+      213: 3661159670363767933
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_131
+  - first:
+      213: 4225637093089149327
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_132
+  - first:
+      213: 377578915472600801
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_133
+  - first:
+      213: -5500542595990303690
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_134
+  - first:
+      213: 6834859116016060859
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_135
+  - first:
+      213: -7940936967197419166
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_136
+  - first:
+      213: 970797158318948330
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_137
+  - first:
+      213: 3093225916949932979
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_138
+  - first:
+      213: 6517850570006694476
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_139
+  - first:
+      213: -7223218356373725442
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_140
+  - first:
+      213: 8875998128849735009
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_141
+  - first:
+      213: 2829844753400963309
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_142
+  - first:
+      213: -7459207573304759725
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_143
+  - first:
+      213: 7084729149967193070
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_144
+  - first:
+      213: 2830130281306882083
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_145
+  - first:
+      213: 2466924916924866812
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_146
+  - first:
+      213: 8941287508192524433
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_147
+  - first:
+      213: 3507868460158038058
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_148
+  - first:
+      213: 5533374673160731365
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_149
+  - first:
+      213: 3067776136968233968
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_150
+  - first:
+      213: 5994102483970194789
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_151
+  - first:
+      213: -1237378302838552138
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_152
+  - first:
+      213: 9088934506109022958
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_153
+  - first:
+      213: 443136553299156391
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_154
+  - first:
+      213: -4671004411615180065
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_155
+  - first:
+      213: 1932618644931538309
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_156
+  - first:
+      213: -26351911561929044
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_157
+  - first:
+      213: 8764870522160603483
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_158
+  - first:
+      213: 2527310953933237427
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_159
+  - first:
+      213: 5385225951885553239
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_160
+  - first:
+      213: 7379500992732591537
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_161
+  - first:
+      213: 7398250101101710227
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_162
+  - first:
+      213: -6659876020222138927
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_163
+  - first:
+      213: -6450996828653155378
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_164
+  - first:
+      213: 6472331211389339654
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_165
+  - first:
+      213: 3062830513035102976
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_166
+  - first:
+      213: 9099105528188740216
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_167
+  - first:
+      213: 1175130784823913274
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_168
+  - first:
+      213: -127185023802148414
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_169
+  - first:
+      213: -291479191366423683
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_170
+  - first:
+      213: 213284510334269589
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_171
+  - first:
+      213: -2278624449016598068
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_172
+  - first:
+      213: 886699954858051495
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_173
+  - first:
+      213: 615737965435375372
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_174
+  - first:
+      213: 1831973262029843602
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_175
+  - first:
+      213: -8388990985603674425
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_176
+  - first:
+      213: 2820522487337108132
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_177
+  - first:
+      213: 918385912485250395
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_178
+  - first:
+      213: 3027954187479653511
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_179
+  - first:
+      213: 4208288330521243715
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_180
+  - first:
+      213: 1642882772342771311
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_181
+  - first:
+      213: 3486139707713086624
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_182
+  - first:
+      213: -5595240314338311631
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_183
+  - first:
+      213: -8691618753998565423
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_184
+  - first:
+      213: 8952140733257359747
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_185
+  - first:
+      213: -5850168233818297425
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_186
+  - first:
+      213: -6514434811288083588
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_187
+  - first:
+      213: -3224240935947161511
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_188
+  - first:
+      213: 71827461762728734
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_189
+  - first:
+      213: 1850649652463515484
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_190
+  - first:
+      213: 5240587577435634239
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_191
+  - first:
+      213: -9164358209257170478
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_192
+  - first:
+      213: -8505529014825521473
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_193
+  - first:
+      213: 361336051043802353
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_194
+  - first:
+      213: 3881166430500926774
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_195
+  - first:
+      213: -1217031091636047073
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_196
+  - first:
+      213: 3144130757558255280
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_197
+  - first:
+      213: -2621237988445324996
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_198
+  - first:
+      213: 1994767652750412593
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_199
+  - first:
+      213: -2754679364409230087
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_200
+  - first:
+      213: 3683476152945807499
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_201
+  - first:
+      213: 421447683465468768
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_202
+  - first:
+      213: -8525246345474127084
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_203
+  - first:
+      213: -5347083890936179241
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_204
+  - first:
+      213: 1422396936682851035
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_205
+  - first:
+      213: -3185294495507788643
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_206
+  - first:
+      213: 9044187306690574381
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_207
+  - first:
+      213: 7933894781935718220
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_208
+  - first:
+      213: -1509749494854504877
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_209
+  - first:
+      213: -684115008767296727
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_210
+  - first:
+      213: 5532318331884835885
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_211
+  - first:
+      213: -4150497568851574184
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_212
+  - first:
+      213: -4085462586971419934
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_213
+  - first:
+      213: -7121336945720065832
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_214
+  - first:
+      213: -939784464149992809
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_215
+  - first:
+      213: -2779340143592873648
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_216
+  - first:
+      213: -6553822084778153915
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_217
+  - first:
+      213: -393145625355625901
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_218
+  - first:
+      213: -9013486303361659143
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_219
+  - first:
+      213: -824519157448860727
+    second: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_220
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -41,12 +704,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +753,4648 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5612551731a3ae0800000000000000
+      internalID: -1568920142704712230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d92277a31898830800000000000000
+      internalID: 4073929426040167814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1663062e85a7c620800000000000000
+      internalID: 2794384123748378141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79baa3026523e8130800000000000000
+      internalID: 3570846900040674199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4dcdb09350c8d80800000000000000
+      internalID: -8247211075051924259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bba96e50f43d4a0800000000000000
+      internalID: -6569820544641090760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6171a98e5a4867080800000000000000
+      internalID: -9190012141496035562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74abc7eba5ceb8dd0800000000000000
+      internalID: -2482630895077639609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63672cd4fe9756710800000000000000
+      internalID: 1685887704228853302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d77c749fccbf5f0800000000000000
+      internalID: -721757944239653608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecbf65bfb6f407c0800000000000000
+      internalID: -4105885657011864343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1505d9c69c9313390800000000000000
+      internalID: -7840421939001864111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0286da4f986d4780800000000000000
+      internalID: -8697180272017898995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a7a88c02d3c6e00800000000000000
+      internalID: 1039272825028508220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b6647091272e50800000000000000
+      internalID: 6784428267968836166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456234d59743f6200800000000000000
+      internalID: 175416606351107668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c1995b30fb87f70800000000000000
+      internalID: 9185301462674644053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c325e35dcc6fde0800000000000000
+      internalID: -1299626226204132250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ecc887d60de1250800000000000000
+      internalID: 5917396129003916872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e0c507e09d139d0800000000000000
+      internalID: -2796215237582516588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15890649540584340800000000000000
+      internalID: 4848213258636662865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24294824945b2c6a0800000000000000
+      internalID: -6430377991678422462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d606ddd74a780c80800000000000000
+      internalID: -8356294659502897456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5836611d53b71c0800000000000000
+      internalID: -4504947830113991227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6f39b27b4b22000800000000000000
+      internalID: 9768848011294443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b7ab28290542980800000000000000
+      internalID: -8564632001163134071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af941be132b617f10800000000000000
+      internalID: 2265709886127032826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207513b4e06c97eb0800000000000000
+      internalID: -4721524969627887870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f2d88df62e28b0800000000000000
+      internalID: -5175156051438014451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886851112fc318740800000000000000
+      internalID: 5152466459054933640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c038b9c987e5fc0800000000000000
+      internalID: -3504230846028378988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f27d06adfb44b30800000000000000
+      internalID: 4270749291302563728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d02f9c1a8dce7110800000000000000
+      internalID: 1260670938779689173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3badb855a0d4360800000000000000
+      internalID: 7155386745496449989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a5a420a43b59320800000000000000
+      internalID: 2564152693304744486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b723fb2fde977ec0800000000000000
+      internalID: -3569209498315577419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eabd07b62508160800000000000000
+      internalID: 7025706040106397202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac12887cd193840800000000000000
+      internalID: 5204223587222932119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e05105fa74641650800000000000000
+      internalID: 6202693066055307491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6758fe578d7d791f0800000000000000
+      internalID: -1038123864394070666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b8bacd0363ebb40800000000000000
+      internalID: 5457859381908179822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2305335cfe16ed1e0800000000000000
+      internalID: -2171190287912447950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2221905b5e73d5d70800000000000000
+      internalID: 9033437887299392034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aa15c326bbb9640800000000000000
+      internalID: 5087866234638281249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abf769033e64a690800000000000000
+      internalID: -7591821906359616600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2734166330639a5a0800000000000000
+      internalID: -6509612398962195598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1d7a75431be6360800000000000000
+      internalID: 7164858895560069594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa7ef0640abf160800000000000000
+      internalID: 7060413063608381414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babe6e7fc774ecc10800000000000000
+      internalID: 2075675080325000107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7129b74f968763fb0800000000000000
+      internalID: -4668411567254302185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbf8406a93684a80800000000000000
+      internalID: -8482420383460820046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7f6b9e0134ee860800000000000000
+      internalID: 7561054564321261484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1189448f052c090800000000000000
+      internalID: -8015755359533133381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb91ae9c587e6b790800000000000000
+      internalID: -7514564366416864834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0084981256ffba0800000000000000
+      internalID: -6053008179451133727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504c19e773d399000800000000000000
+      internalID: 43132979992708101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91aded86a550fb0800000000000000
+      internalID: -4682236831119828548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac6f3f66a4fe710800000000000000
+      internalID: 1724678988346346171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d93ae880f6a7d800800000000000000
+      internalID: 637161424315627985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7c782d8e6ac300800000000000000
+      internalID: 273152279958027802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1011de2b4b97be80800000000000000
+      internalID: -8162885052375429089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdffc2f00421a4d20800000000000000
+      internalID: 3263440946325159900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c77f2f145b78190800000000000000
+      internalID: -7960194521500255206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405cb8a580ac8e100800000000000000
+      internalID: 137581925862458628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8694f259a2ef7e0800000000000000
+      internalID: -1729898386631857996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a74616c1119d800800000000000000
+      internalID: 637559635840367207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad4914c2fb428280800000000000000
+      internalID: -9042581595762373205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd5870f01f509d20800000000000000
+      internalID: 3283228654711627211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4075fd67db5d67f0800000000000000
+      internalID: -617736593058992050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc380f0858a5790800000000000000
+      internalID: -7540567837240996625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d39028d9c1e83630800000000000000
+      internalID: 3907120933774595024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e135651d910e3e0800000000000000
+      internalID: -2026591445429576105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612bf68c773866910800000000000000
+      internalID: 1830294849059795478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d6c3e5209c3800800000000000000
+      internalID: 593507743315710223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b3fde6f1524ec30800000000000000
+      internalID: 4387672753900043157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_75
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b3df3827b9fd890800000000000000
+      internalID: -7431049943995040944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2edbfe510f85f00800000000000000
+      internalID: 1105897685526635234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7899d6c3b7282e0800000000000000
+      internalID: -2125000574698420228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019c082461f09ef0800000000000000
+      internalID: -103317378958585597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a73a6f5bb456bf40800000000000000
+      internalID: 5743871538494060455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7d1782a26d185c0800000000000000
+      internalID: -4214852299686553630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5796975923709430800000000000000
+      internalID: 3787653908018927454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccad19d7d44e1c090800000000000000
+      internalID: -8015874840272446772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3b39171c66efc0800000000000000
+      internalID: -3465964016751657866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e24b3b640bd0d0800000000000000
+      internalID: -3397116635318655439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc546ec38440d60800000000000000
+      internalID: 7855483076439559153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5eb96d02e8ff180800000000000000
+      internalID: -9079382052064991831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a64adcd68b83eca0800000000000000
+      internalID: -5988789668125456730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441cf7e8a9a02a280800000000000000
+      internalID: -9033646243619815100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce963088f8d36b30800000000000000
+      internalID: 4279502632746655429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0a297c79ad6c570800000000000000
+      internalID: 8486710893249470713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5c1987d6b94cd0800000000000000
+      internalID: -2573324675230965868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e27042d8e27efd0800000000000000
+      internalID: -2312828699901743556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac05f994c5b048e0800000000000000
+      internalID: -1711168002399597402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_94
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3883e7898d0f28ad0800000000000000
+      internalID: -2701332013406865277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee40990fb54a0a20800000000000000
+      internalID: 3029310386161602279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_96
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed5e3b77f60bec0800000000000000
+      internalID: -3553217546085343613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd30237d3f05e20800000000000000
+      internalID: 3337435429464169738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323c380760012bd0800000000000000
+      internalID: -2656841862652087754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9fe922009d4d550800000000000000
+      internalID: 6184806782890604975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61105d0eb37676470800000000000000
+      internalID: 8387786337873625366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a101ae7d3eca6400800000000000000
+      internalID: 318293487195849123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b742d2b28616aebc0800000000000000
+      internalID: -3753080239431015301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fc692e3dbb265f0800000000000000
+      internalID: -764842467985535126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9912cd9957b0e80800000000000000
+      internalID: -8211340191896331786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041ace083956b6ba0800000000000000
+      internalID: -6094665986518245056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365284db1ec58770800000000000000
+      internalID: 8612516481340692027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0463b9b1804026550800000000000000
+      internalID: 6152484473810925120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eceb99e961bebb0800000000000000
+      internalID: -4905802498649960824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7cde21aa9f82200800000000000000
+      internalID: 155648696001611714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f485b52ae9aee80800000000000000
+      internalID: -8148526155619086464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_111
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42714d4b278ab9300800000000000000
+      internalID: 259986614117472036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212736beb56254c50800000000000000
+      internalID: 6648762601115447826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_113
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f96d1feef629ad0800000000000000
+      internalID: -2696970154791231725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b6fac44e67bb270800000000000000
+      internalID: 8267332263879863137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789483586a3bce30800000000000000
+      internalID: 4524774470376003697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7449260e2a0244b50800000000000000
+      internalID: 6576417239789114439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83b6ce98f4b7d70800000000000000
+      internalID: 9041908130671966370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e766887dc99a08e0800000000000000
+      internalID: -1726398399373744154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9a2212f1b4414a0800000000000000
+      internalID: -6623586554883167774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d15258ca8e7f5d0800000000000000
+      internalID: -3028696396717548150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67219240f671888a0800000000000000
+      internalID: -6302761912926399882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c7ac8dc88fff1b0800000000000000
+      internalID: -5620500526118831020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bdbe5d4a333c4f0800000000000000
+      internalID: -809746724939900064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5197493f37f8a40800000000000000
+      internalID: 5372640370481501621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5afe303b6eda8060800000000000000
+      internalID: 6956617126379453023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_126
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d765d3cde65355120800000000000000
+      internalID: 2401884726529709693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca3d7e50a1da9740800000000000000
+      internalID: 5159666809816562375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_128
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b628e4235db5ee0800000000000000
+      internalID: -1271188057759782005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_129
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cba866d897ff7e0800000000000000
+      internalID: -1729530083669263250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_130
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382ddee3c2d9c0fe0800000000000000
+      internalID: -1221428585564351869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74c402925d0fc230800000000000000
+      internalID: 3661159670363767933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f810b4b3c8a74aa30800000000000000
+      internalID: 4225637093089149327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeeb6be50e6d3500800000000000000
+      internalID: 377578915472600801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cc71ee6a52aa3b0800000000000000
+      internalID: -5500542595990303690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94af3472c4ade50800000000000000
+      internalID: 6834859116016060859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2691e66b6ef1cc190800000000000000
+      internalID: -7940936967197419166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef3f8a3fd6f87d00800000000000000
+      internalID: 970797158318948330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb25d535985dea20800000000000000
+      internalID: 3093225916949932979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a83547f8e047a50800000000000000
+      internalID: 6517850570006694476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5345dc29f1cb90800000000000000
+      internalID: -7223218356373725442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dce196541ed2b70800000000000000
+      internalID: 8875998128849735009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0a7ff5fc0a54720800000000000000
+      internalID: 2829844753400963309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a244f8b329b7890800000000000000
+      internalID: -7459207573304759725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee356a910a3025260800000000000000
+      internalID: 7084729149967193070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3208f550f74a64720800000000000000
+      internalID: 2830130281306882083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0edd044274c3220800000000000000
+      internalID: 2466924916924866812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_147
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f370ad95d51c70800000000000000
+      internalID: 8941287508192524433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20348e67c37ea030800000000000000
+      internalID: 3507868460158038058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_149
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea73eab2fe7acc40800000000000000
+      internalID: 5533374673160731365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3696e842ee29a20800000000000000
+      internalID: 3067776136968233968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d745873745f2350800000000000000
+      internalID: 5994102483970194789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9488e4df2f3dee0800000000000000
+      internalID: -1237378302838552138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee23b6f27c1622e70800000000000000
+      internalID: 9088934506109022958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad136ee856562600800000000000000
+      internalID: 443136553299156391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda05655c324d2fb0800000000000000
+      internalID: -4671004411615180065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_156
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de0790b6a02da10800000000000000
+      internalID: 1932618644931538309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed238731162aff0800000000000000
+      internalID: -26351911561929044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_158
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51eca73d4313a970800000000000000
+      internalID: 8764870522160603483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce42e1cefc21320800000000000000
+      internalID: 2527310953933237427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_160
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e6a59987a2cba40800000000000000
+      internalID: 5385225951885553239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f77bfd01496660800000000000000
+      internalID: 7379500992732591537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b4aa3f44ddba660800000000000000
+      internalID: 7398250101101710227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5648e8b0e5393a0800000000000000
+      internalID: -6659876020222138927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_164
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb05fc20947976a0800000000000000
+      internalID: -6450996828653155378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080983e1f652d950800000000000000
+      internalID: 6472331211389339654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b4fa0cf1c518a20800000000000000
+      internalID: 3062830513035102976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ab7dc444864e70800000000000000
+      internalID: 9099105528188740216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_168
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b2e020937ee4010800000000000000
+      internalID: 1175130784823913274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f58b05e52c3ef0800000000000000
+      internalID: -127185023802148414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7baf23483574fbf0800000000000000
+      internalID: -291479191366423683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_171
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5983192d12db5f200800000000000000
+      internalID: 213284510334269589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_172
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc178d3e223b060e0800000000000000
+      internalID: -2278624449016598068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_173
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a74ba739e03e4c00800000000000000
+      internalID: 886699954858051495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f4f70da6a8b8800800000000000000
+      internalID: 615737965435375372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_175
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c6d41c9f97c6910800000000000000
+      internalID: 1831973262029843602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce83273521549b80800000000000000
+      internalID: -8388990985603674425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_177
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2caba2242842720800000000000000
+      internalID: 2820522487337108132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5508602f13cebc00800000000000000
+      internalID: 918385912485250395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c91ec6a44750a20800000000000000
+      internalID: 3027954187479653511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_180
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340f32da0f7d66a30800000000000000
+      internalID: 4208288330521243715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_181
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e89155d21bcc610800000000000000
+      internalID: 1642882772342771311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a46f930891416030800000000000000
+      internalID: 3486139707713086624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_183
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1328be63496b952b0800000000000000
+      internalID: -5595240314338311631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_184
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfcacc1bca216780800000000000000
+      internalID: -8691618753998565423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_185
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3812c1101946c3c70800000000000000
+      internalID: 8952140733257359747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6cf2acf600dea0800000000000000
+      internalID: -5850168233818297425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732cb8dd041895a0800000000000000
+      internalID: -6514434811288083588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_188
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950b89693f13143d0800000000000000
+      internalID: -3224240935947161511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_189
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e134c7722be2ff000800000000000000
+      internalID: 71827461762728734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_190
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b9c2cd04dea910800000000000000
+      internalID: 1850649652463515484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_191
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3067c2ae4ab840800000000000000
+      internalID: 5240587577435634239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_192
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99ac673c8a1d080800000000000000
+      internalID: -9164358209257170478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeeb8cdc6a46f980800000000000000
+      internalID: -8505529014825521473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_194
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc12075939b30500800000000000000
+      internalID: 361336051043802353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_195
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635bd242e4cacd530800000000000000
+      internalID: 3881166430500926774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_196
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f137d669bac3c1fe0800000000000000
+      internalID: -1217031091636047073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beb3a3044232ab20800000000000000
+      internalID: 3144130757558255280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_198
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f4faffed7f9bd0800000000000000
+      internalID: -2621237988445324996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_199
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc0a78c96deab10800000000000000
+      internalID: 1994767652750412593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_200
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf94686b965c9d0800000000000000
+      internalID: -2754679364409230087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_201
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8015f29b065e1330800000000000000
+      internalID: 3683476152945807499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_202
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bde586f6849d500800000000000000
+      internalID: 421447683465468768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_203
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b41531e9d30b980800000000000000
+      internalID: -8525246345474127084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5198008875bc5b0800000000000000
+      internalID: -5347083890936179241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_205
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac59c4a7e5db310800000000000000
+      internalID: 1422396936682851035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c4042688f8bc3d0800000000000000
+      internalID: -3185294495507788643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_207
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d287361ff68638d70800000000000000
+      internalID: 9044187306690574381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f8a92c44bda1e60800000000000000
+      internalID: 7933894781935718220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e2f5b55da4c0be0800000000000000
+      internalID: -1509749494854504877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b79ec26098186f0800000000000000
+      internalID: -684115008767296727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_211
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24906c163eb6cc40800000000000000
+      internalID: 5532318331884835885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ca7f83787666c0800000000000000
+      internalID: -4150497568851574184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_213
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8b604c658d47c0800000000000000
+      internalID: -4085462586971419934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_214
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d08d7047cdeb2d90800000000000000
+      internalID: -7121336945720065832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_215
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa8e0520735f2f0800000000000000
+      internalID: -939784464149992809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051e92f6ddccd69d0800000000000000
+      internalID: -2779340143592873648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_217
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54820bb99852c05a0800000000000000
+      internalID: -6553822084778153915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_218
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35addaff2244b8af0800000000000000
+      internalID: -393145625355625901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_219
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe874c66f9a9e280800000000000000
+      internalID: -9013486303361659143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Battle Stages - Battle Stage 04_ Jump Zone_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb91cdd138be84f0800000000000000
+      internalID: -824519157448860727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

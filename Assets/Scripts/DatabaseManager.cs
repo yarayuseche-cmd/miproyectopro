@@ -12,6 +12,7 @@ public class UserData
     public string Password { get; set; }
     public string PreguntaSecreta { get; set; }
     public string RespuestaSecreta { get; set; }
+
 }
 
 public class DatabaseManager : MonoBehaviour

@@ -32,4 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Victoria.unity
     guid: 208863f6f5b98484caff7b9945b845b5
+  - enabled: 1
+    path: Assets/Scenes/GuiaNivel1.unity
+    guid: d61afc61610ffc94e87be221fd85592f
+  - enabled: 1
+    path: Assets/Scenes/Bomberman 2.unity
+    guid: e6cfe2a4946726344a5a3412c8d90c4f
   m_configObjects: {}
